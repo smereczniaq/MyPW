@@ -7,3 +7,4 @@ models/
 *.pt
 BoT-SORT/
 env/
+!requirements.txt
