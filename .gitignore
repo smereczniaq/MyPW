@@ -8,3 +8,8 @@ models/
 BoT-SORT/
 env/
 !requirements.txt
+YOLOv6/
+datasets/
+docs/
+img/
+notebooks/runs/
